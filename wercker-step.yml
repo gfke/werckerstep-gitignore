@@ -1,3 +1,3 @@
 name: gitignore
-version: 0.0.1
-description: merge gitignore files to prevent source file installtion on production systems like heroku
+version: 0.1.0
+description: replace gitignore files to prevent source file installtion on production systems like heroku

@@ -1,6 +1,6 @@
 # gitignore
 
-A wercker step to merge gitignore files to prevent installing source files on production systems like heroku. 
+A wercker step to replace gitignore files to prevent installing source files on production systems like heroku. 
 
 Create an addtional gitignore file called `.gitignore.deploy` and add all source files you like to prevent their installation on heroku.
 
